@@ -1,0 +1,8 @@
+{
+	"companyName": "Chennai Central",
+	"clientID": "81e4865f-caf8-4fee-b26d-b9c09089b422",
+	"clientSecret": "acqgBiXejXjTJPhM",
+	"ownerName": "JohnDoe",
+	"ownerEmail": "test@gmail.com",
+	"rollNo": "69"
+}
